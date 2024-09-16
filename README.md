@@ -4,7 +4,7 @@
 Repository untuk program CRUD tentang klinik
 
 **Deskripsi**:<br />
-Program ini dibuat untuk mendaftarkan pasien yang datang ke klinik dan mencatat informasi tentang pasien melalui SOAP (Subjective, Objective, Assessment, Plannig).
+Program ini dibuat untuk mendaftarkan pasien yang datang ke klinik dan mencatat informasi tentang pasien melalui SOAP (Subjective, Objective, Assessment, Planning).
 Sebelum menjalankan kode ini diwajibkan untuk mendonwload library tabulate dengan cara buka cmd lalu ketik "pip install tabulate".
 
 **Fitur**:
