@@ -11,7 +11,7 @@ Sebelum menjalankan kode ini diwajibkan untuk mendonwload library tabulate denga
 1. Menu utama: 
 Menu pertama yang muncul dan digunakan untuk mengakses sub menu lainnya
 2. Menu Read: 
-Melihat seluruh atau sebagian data pasien yang sudah ter-registrasi di klinik
+Menu untuk melihat seluruh atau sebagian data pasien yang sudah ter-registrasi di klinik
 3. Menu Create: 
 Menu untuk mendaftarkan pasien yang ingin berobat di klinik
 4. Menu Update: 
